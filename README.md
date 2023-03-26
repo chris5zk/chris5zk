@@ -51,5 +51,8 @@ I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSc" alt="VSc" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="pycharm" alt="pycharm" width="80" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
 
+🔥 My stats
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris5zk&theme=dark&background=000000)](https://git.io/streak-stats)
