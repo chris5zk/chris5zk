@@ -31,6 +31,25 @@ Here are some ideas to get you started:
   AI developer / FrontEnd / BackEnd / Discord Bot
 </div>
 
+🐾 Who am I ?
 ---
-Chris #chris5zk
-===
+I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
+- 🔎 AI developer of Computer Vision Fields.
+- 🙉 A newbie of Discord Bot developement.
+- 🌐 Front-end and Back-end website worker.
+
+⚒️ Languages and Tools
+---
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="" title="" alt="" width="40" height="40"/>&nbsp;
+<img src="" title="" alt="" width="40" height="40"/>&nbsp;
+<img src="" title="" alt="" width="40" height="40"/>&nbsp;
+<img src="" title="" alt="" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BS" alt="BS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
+<img src="" title="" alt="" width="40" height="40"/>&nbsp;
+<img src="" title="" alt="" width="40" height="40"/>&nbsp;
+<img src="" title="" alt="" width="40" height="40"/>&nbsp;
