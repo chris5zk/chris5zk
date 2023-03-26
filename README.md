@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![link text](https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif) Chris #chris5zk
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+</div>
+
+---
+Chris #chris5zk
 ===
