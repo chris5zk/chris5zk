@@ -55,6 +55,6 @@ I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
 
 🔥 My stats
 ---
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris5zk&theme=buefy&date_format=%5BY.%5Dn.j)(https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris5zk&layout=compact&theme=buefy)(https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris5zk&theme=buefy&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris5zk&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris5zk&show_icons=true&theme=buefy)
