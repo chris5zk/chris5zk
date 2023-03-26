@@ -25,9 +25,10 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=chris5zk&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi👋 I'm Chris.
+    Hi, I'm Chris.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <h4>Deep Learning/FrontEnd/BackEnd/Discord Bot</h4>
 </div>
 
 ---
