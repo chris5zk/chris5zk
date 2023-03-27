@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     Hi, I'm Chris.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  AI developer / FrontEnd / BackEnd / Discord Bot
+  ![angela-lucero-av1](https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif)
 </div>
 
 🐾 Who am I ?
@@ -37,6 +37,14 @@ I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
 - 🔎 AI developer of Computer Vision Fields.
 - 🙉 A newbie of Discord Bot developement.
 - 🌐 Front-end and Back-end website worker.
+
+🌱 I'm currently learning...
+---
+- 💻 More knowledge in CV and Image Processing field.
+- ⛄ More mathematics in the Deep Learning.
+- 🌊 Design pattern for a cleaner code.
+- 👽 Newest thing in AI.
+- ❔ Any knowledge related to Computer Science and Information Engineering.
 
 ⚒️ Languages and Tools
 ---
