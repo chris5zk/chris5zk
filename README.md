@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif">
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/%E8%87%B4%E5%BB%A3-%E5%90%B3-476056212/">
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
     Hi, I'm Chris.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif">
 </div>
 
 🐾 Who am I ?
