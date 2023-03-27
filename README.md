@@ -28,8 +28,8 @@ Here are some ideas to get you started:
     Hi, I'm Chris.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <img src="https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif">
 </div>
-![angela-lucero-av1](https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif)
 
 🐾 Who am I ?
 ---
