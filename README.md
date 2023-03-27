@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif">
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/%E8%87%B4%E5%BB%A3-%E5%90%B3-476056212/">
@@ -66,3 +65,5 @@ I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris5zk&theme=buefy&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris5zk&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris5zk&show_icons=true&theme=buefy)
+
+<img src="https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif">
