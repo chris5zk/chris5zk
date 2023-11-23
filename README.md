@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🐾 Who am I ?
 ---
-I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
+I was a student from CCUEE before, and now become master student in NYCU AI system.
 - 🔎 AI developer of Computer Vision Fields.
 - 🙉 A newbie of Discord Bot developement.
 - 🌐 Front-end and Back-end website worker.
@@ -43,7 +43,7 @@ I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
 - ⛄ More mathematics in the Deep Learning.
 - 🌊 Design pattern for a cleaner code.
 - 👽 Newest thing in AI.
-- ❔ Any knowledge related to Computer Science and Information Engineering.
+- ❔ Any knowledge related to deep learning and machine learning.
 
 ⚒️ Languages and Tools
 ---
@@ -59,11 +59,5 @@ I am a student from CCUEE now, and become a graduate student in NYCU AI soon🔜
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSc" alt="VSc" width="40" height="40"/>&nbsp;
-
-🔥 My stats
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris5zk&theme=buefy&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris5zk&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris5zk&show_icons=true&theme=buefy)
 
 <img src="https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif">
