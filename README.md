@@ -35,15 +35,13 @@ Here are some ideas to get you started:
 I was a student from CCUEE before, and now become master student in NYCU AI system.
 - 🔎 AI developer of Computer Vision Fields.
 - 🙉 A newbie of Discord Bot developement.
-- 🌐 Front-end and Back-end website worker.
+- 🌐 Website worker before.
 
 🌱 I'm currently learning...
 ---
-- 💻 More knowledge in CV and Image Processing field.
-- ⛄ More mathematics in the Deep Learning.
-- 🌊 Design pattern for a cleaner code.
-- 👽 Newest thing in AI.
-- ❔ Any knowledge related to deep learning and machine learning.
+- 💻 More knowledge in CV and Image Processing field, especially the video understanding and multi-modality alignment.
+- ❔ Newest thing of any field in AI and any knowledge related to deep learning and machine learning.
+- 🌐 Learning the full-stack website skills.
 
 ⚒️ Languages and Tools
 ---
@@ -51,13 +49,9 @@ I was a student from CCUEE before, and now become master student in NYCU AI syst
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CI4" alt="CI4" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BS" alt="BS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSc" alt="VSc" width="40" height="40"/>&nbsp;
 
 <img src="https://user-images.githubusercontent.com/75744598/227836469-10454837-520a-4973-9f8a-9ed748f47572.gif">
